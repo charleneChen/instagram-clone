@@ -35,9 +35,7 @@ It was built as a **solo project** to practice HTML, CSS, and JavaScript fundame
 
 _(Add your screenshot here)_
 
-```markdown
 ![First version of Oldagram Screenshot](images/first-version.png)
-```
 
 ---
 
