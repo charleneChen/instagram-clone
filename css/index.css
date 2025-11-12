@@ -1,4 +1,71 @@
 body {
     font-family: "Source Sans 3", sans-serif;
+    font-size: 16px;
+    background-color: #c6c6c6;
+}
+
+body,
+p {
     margin: 0;
+}
+
+header,
+main,
+.post-img {
+    width: 375px;
+}
+
+header,
+main {
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+header {
+    border-bottom: 1px solid #c6c6c6;
+}
+
+#logo {
+    width: 127px;
+}
+
+.user-avatar {
+    width: 34px;
+    border-radius: 50%;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.user-container,
+.icons-container,
+.content {
+    padding: 10px;
+}
+
+.user-container {
+    display: flex;
+    align-items: center;
+}
+
+.user-info {
+    margin-left: 10px;
+}
+
+.name,
+.accent-text {
+    font-size: 0.8125rem;
+    font-weight: bold;
+}
+
+.location {
+    font-size: 0.75rem;
+}
+
+.icon {
+    width: 24px;
 }
