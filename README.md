@@ -1,6 +1,6 @@
 # Oldagram
 
-A solo project built as part of the [Scrimba Frontend Developer Career Path](https://scrimba.com/).
+A solo project built as part of the [Scrimba Frontend Developer Career Path](https://scrimba.com/fullstack-path-c0fullstack).
 
 Oldagram is a simple Instagram-style photo post.
 

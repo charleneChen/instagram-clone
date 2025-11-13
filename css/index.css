@@ -1,12 +1,14 @@
+html,
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: "Source Sans 3", sans-serif;
     font-size: 16px;
     background-color: #c6c6c6;
-}
-
-body,
-p {
-    margin: 0;
 }
 
 header,
